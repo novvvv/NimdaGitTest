@@ -25,3 +25,9 @@ Main conflict test
 
 ## Conflict 
 conficlt test 
+
+## Commit
+
+### reset 
+- 장점 : 쉽고 간편하다. 
+- 단점 : 커밋이 날아간다. 그리고, 강제 푸시가 필요하다. 
