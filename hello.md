@@ -22,5 +22,7 @@
 - 진짜 병합이 필요해 진다. 
 - 충돌 발생 가능성 O
 
+Main conflict test
+
 ## Conflict 
 
